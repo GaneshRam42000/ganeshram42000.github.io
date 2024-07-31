@@ -1,0 +1,32 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: "HomeWeb"
+theme: ["PaperMod"]
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    # - identifier: Blog
+    #   name: Blog
+    #   url: /blog/
+    #   weight: 20    
+
+params:
+  profileMode:
+    imageUrl: "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F8%2FSample-PNG-Free-Download.png&sp=1721849221T37af8104e7200438e3954329aca91a84b66477692455e1dad1136eecab59afbc"
+    enabled: true
+    title: Ganesh Ram 
+    buttons:
+      - name: About
+        url: /about
+      - name: Blog
+        url: /blog   
+  defaultTheme: auto
+  label:
+    text: ">$ cd /~"

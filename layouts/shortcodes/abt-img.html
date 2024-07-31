@@ -1,0 +1,4 @@
+{{ $image := resources.Get "images/about/abt-img.jpg" }}
+{{ with $image }}
+  <img src="{{ (.Process "fit 180x400 q100").RelPermalink }}" style="float:right;margin:5%">
+{{ end }}
