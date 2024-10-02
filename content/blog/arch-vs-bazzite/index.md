@@ -1,7 +1,7 @@
 ---
 title: 'Arch vs Bazzite'
 date: 2024-07-31T16:36:21+05:30
-draft: true
+draft: false
 cover:
     image: '/images/blog/arch-vs-bazzite/cover.png'
 categories:
