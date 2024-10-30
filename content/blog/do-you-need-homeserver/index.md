@@ -1,7 +1,7 @@
 ---
 title: 'Do You Need Homeserver?'
 date: 2024-10-04T21:46:20+05:30
-draft: true
+draft: false
 cover:
     image: "/images/blog/do-you-need-homeserver"
 categories:
