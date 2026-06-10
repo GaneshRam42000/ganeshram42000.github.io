@@ -19,7 +19,7 @@ menu:
 
 params:
   profileMode:
-    imageUrl: /images/dog.jpg
+    imageUrl: 
     enabled: true
     title: Ganesh Ram 
     buttons:
