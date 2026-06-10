@@ -1,7 +1,7 @@
 ---
 title: 'Life Update 2025 🥀'
 date: 2026-01-30T16:02:02+05:30
-draft: true
+draft: false
 author: me
 ---
 Okay I don't even remember how long has it been since I checked on my site. A lot has changed since I decide to start to write out my own blogs. One I never wrote anything(apart from the two blogs that i wrote at the start of me creating this site), two, I find myself completely lost from everything.
