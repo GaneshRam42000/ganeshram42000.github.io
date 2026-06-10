@@ -49,4 +49,4 @@ This depends on person to person. Some would find it easy while others don't eve
 
 ## Final Thoughts
 
-If you wanna deep dive in how internet works and have some intrest to make your own server, this would be a good exercise.I would stringly recommend you guys to check it out.
+If you wanna deep dive in how internet works and have some intrest to make your own server, this would be a good exercise.I would recommend you guys to check it out.
