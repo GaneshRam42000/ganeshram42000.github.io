@@ -1,7 +1,7 @@
 ---
 title: 'New Beginnings'
 date: 2026-11-23T01:00:08+01:00
-draft: true
+draft: false
 ---
 Did something that I wish I did way long back, but it's fine. Now that I moved to germany for masters the cog started to turn again. It's now 1 a.m right now and the tempperature is -2 degree in Passau at the time of me typing this. 
 
