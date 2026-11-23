@@ -26,5 +26,5 @@ Apart form this I'm also planning to switch from searching for jobs to complete 
 
 Till then I wannna improve my skills in MMA and try to keep my body in good shape . I also wanna learn some new stuffs along , let's see how it goes.
 
-## UPDATE (JUN-10-2026) 
-Forgot abt this shi for a while, Sorry to myself for publishing this late. 
+## UPDATE (JUN-10-2026) 🤡
+Forgot abt this shi for a while, Sorry to myself for publishing this late .
